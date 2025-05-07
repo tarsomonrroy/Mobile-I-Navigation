@@ -1,4 +1,4 @@
 Run Project
 
-1. ´npm install´
-2. ´npx expo start´
+1. ´´npm install´´
+2. ´´npx expo start´´
